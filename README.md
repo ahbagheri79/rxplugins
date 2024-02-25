@@ -1,7 +1,6 @@
-# rxplugins
 # Welcome WordPress Community!
 
-This plugin is released as open source and completely free. You are free to make any modifications you need and use it in commercial projects as well. Just keep in mind that if any changes are made, they must be published as open source and should never be placed under any non-free conditions.
+This plugin is released as open source under the [GNU General Public License v3.0](LICENSE). You are free to modify it as needed and use it in commercial projects. However, any modifications you make must also be released under the GPL-3.0 license, and the plugin must remain free and open source.
 
 ## Usage
 
@@ -17,7 +16,9 @@ To use this plugin, simply follow these steps:
 
 We welcome contributions from the community to improve this plugin. If you find any bugs or have suggestions for enhancements, please feel free to submit a pull request or open an issue on GitHub.
 
+**Note:** If any modifications are made to this plugin in another repository, the changes must also be applied to the `Beta` directory in this main repository.
+
 ## License
 
-This project is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [GNU General Public License v3.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
